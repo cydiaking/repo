@@ -1,0 +1,24 @@
+<package>
+	<id>jp.soh.aod</id>
+	<name>AOD</name>
+	<version>2.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Cool Always-on Display Tweak</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<version>2.6</version>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
