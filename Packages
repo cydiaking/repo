@@ -34,7 +34,7 @@ Architecture: iphoneos-arm
 Description: Cool Always-on Display Tweak
 Maintainer: CydiaKing
 Author: Satoh
-Section: Paid Tweaks
+Section: Tweaks
 Filename: ./debs/jp.soh.aod.deb
 Depiction: https://cydiaking.github.io/repo/aod
 Size: 1818798
