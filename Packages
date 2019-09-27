@@ -28,7 +28,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 
 Package: jp.soh.aod
 Name: AOD
-Depends: mobilesubstrate
+Depends: firmware (>12.0), mobilesubstrate
 Version: 2.6
 Architecture: iphoneos-arm
 Description: Cool Always-on Display Tweak
